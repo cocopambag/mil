@@ -9,12 +9,6 @@
   end: 2020-10-21
   description: 매일같이 롤 ㄱ를 외친다.
   image:
-  
-- name : 유형준
-  start : 2016-04-18
-  end : 2018-01-17
-  description : 벌써 전역 ㅎㅎㅎ
-  image :
 
 - name : 김진호
   start : 2016-04-25
@@ -28,20 +22,16 @@
   description : 18학번 첫 군인^^7
   image :
 
-- name : 신영진
-  start : 2016-01-19
-  end : 2017-10-18
-  description : 개(새)발자
-  image :
 
 - name : 최한빈
   start : 2019-04-29
   end : 2020-11-28
   description : 18-19 총무
   image :
-  
-- name : 양현우
-  start : 2014-07-07
-  end : 2016-04-06
-  description : 늙은이
+
+- name : 류현웅
+  start : 2019-05-13
+  end : 2020-12-12
+  description : 춤꾼
   image :
+
